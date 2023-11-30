@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hello there !!! Thanks for visiting my website.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Lathashree Harisha. I have the following amazing qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- A super optimistic, dedicated happy person
+- Woman In Tech
+- AI and ML enthusiast
+- Outside of work, I love trekking, travelling, and reading books
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
