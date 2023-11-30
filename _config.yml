@@ -19,7 +19,7 @@ author: Lathashree Harisha
 ###############################################
 
 navbar-links:
-  About Me: "about me"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
